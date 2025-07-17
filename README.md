@@ -30,7 +30,7 @@ With a technical background in AI & Data Science, I’m now applying my problem-
 - 📒 [`ctf-writeups`](https://github.com/your-username/ctf-writeups) – solutions & analysis from CTF challenges  
 - 🧠 [`notes-cybersec`](https://github.com/your-username/notes-cybersec) – markdown notes from labs, courses, and books
 
---->
+
 
 ---
 
@@ -45,7 +45,7 @@ With a technical background in AI & Data Science, I’m now applying my problem-
 | Scripting | Python, Bash |
 | Learning Platforms | TryHackMe, Hack The Box, THM Labs |
 
----
+--->
 
 ## 📫 Let's Connect
 
