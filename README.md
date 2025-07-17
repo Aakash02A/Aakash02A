@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aakash
 
-🎓 I'm a B.Tech in AI & Data Science  
-🔐 Cybersecurity Enthusiast | Aspiring SOC Analyst | Network Defender | Security Automation Explorer 
+🎓 I'm a B.Tech in AI & Data Science  <br>
+🔐 Cybersecurity Enthusiast | Aspiring SOC Analyst | Network Defender | Security Automation Explorer <br>
 📍 Currently learning ethical hacking, network defense, and security operations
 
 ---
