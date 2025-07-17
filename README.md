@@ -2,6 +2,7 @@
 
 🎓 I'm a B.Tech in AI & Data Science  
 🔐 Cybersecurity Enthusiast | Aspiring SOC Analyst | Network Defender | Security Automation Explorer
+
 📍 Currently learning ethical hacking, network defense, and security operations
 
 ---
