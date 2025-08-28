@@ -14,12 +14,38 @@ With a technical background in AI & Data Science, I’m now applying my problem-
 
 ---
 
-## 🛠️ Focus Areas
+## 🧠 Currently Learning:
 
-- Network Security & Threat Analysis  
-- SOC Tools & Workflows  
-- Linux & Command Line Fundamentals  
-- Python for Security Tasks  
+- Cybersecurity fundamentals & ethical hacking
+- Machine Learning & Deep Learning
+- Full Stack Development (MERN stack)
+- Task automation using Python
+- Exploring basics of Mechatronics & Embedded Systems
+
+---
+
+## 🛠️ Projects I'm Working On:
+
+- Simple cybersecurity tools and automation scripts
+- AI projects (NLP, prediction models)
+- Full stack web apps with backend integration
+- Beginner automation projects (e.g., Python scripts, bots)
+
+---
+
+## 💡 Interests:
+
+- Cybersecurity & Digital Forensics
+- AI & ML in Security
+- Automation using Python
+- IoT Security & Mechatronics (Curious Explorer)
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out or check my: [LinkedIn](https://linkedin.com/in/aakash02a)
+
 
 <!---
 
@@ -46,11 +72,4 @@ With a technical background in AI & Data Science, I’m now applying my problem-
 | Learning Platforms | TryHackMe, Hack The Box, THM Labs |
 
 --->
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/aakash02a)  
-- Open to internships in: SOC Analysis • Cybersecurity • Information Security
-
----
 
