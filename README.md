@@ -1,18 +1,15 @@
 # 👋 Hi, I'm Aakash
 
-🎓 I'm a B.Tech in AI & Data Science  <br>
-🔐 Cybersecurity Enthusiast | Aspiring SOC Analyst | Network Defender | Security Automation Explorer <br>
-📍 Currently learning ethical hacking, network defense, and security operations
-
----
+*Aspiring Cybersecurity Professional | AI & Data Science Student | Passionate About Ethical Hacking and Automation*
 
 ## 🧭 About Me
 
-I'm currently building my career in cybersecurity with a focus on **SOC operations**, **Linux system security**, and **Python scripting for automation**. I’m learning through hands-on platforms like **TryHackMe** and guided simulations.
+I'm a pre-final year B.Tech student specializing in **Artificial Intelligence & Data Science**. My goal is to become a **cybersecurity professional**, with a growing passion for **ethical hacking** and **system security**.
 
-With a technical background in AI & Data Science, I’m now applying my problem-solving mindset to cybersecurity — aiming to contribute to real-world defense systems.
+Alongside my academic journey, I’ve been gaining hands-on experience in **full stack development**, and I love building AI-powered tools and simple automation projects. I'm especially curious about how **mechatronics** and **intelligent systems** work together in real-world environments.
 
----
+I'm currently focused on learning more about cybersecurity, improving my coding skills, and building projects that combine AI, security, and automation.
+
 
 ## 🧠 Currently Learning:
 
@@ -22,7 +19,6 @@ With a technical background in AI & Data Science, I’m now applying my problem-
 - Task automation using Python
 - Exploring basics of Mechatronics & Embedded Systems
 
----
 
 ## 🛠️ Projects I'm Working On:
 
@@ -31,7 +27,6 @@ With a technical background in AI & Data Science, I’m now applying my problem-
 - Full stack web apps with backend integration
 - Beginner automation projects (e.g., Python scripts, bots)
 
----
 
 ## 💡 Interests:
 
@@ -40,7 +35,6 @@ With a technical background in AI & Data Science, I’m now applying my problem-
 - Automation using Python
 - IoT Security & Mechatronics (Curious Explorer)
 
----
 
 ## 📫 Let's Connect!
 
