@@ -15,7 +15,7 @@ I'm currently focused on learning more about cybersecurity, improving my coding 
 
 - Cybersecurity fundamentals & ethical hacking
 - Machine Learning & Deep Learning
-- Full Stack Development (MERN stack)
+- Full Stack Development 
 - Task automation using Python
 - Exploring basics of Mechatronics & Embedded Systems
 
