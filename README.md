@@ -85,7 +85,7 @@ _I’m a pre-final year B.Tech student specializing in Artificial Intelligence a
   <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aakash02a&theme=radical) -->
   ![Profile Views](https://komarev.com/ghpvc/?username=aakash02a&style=flat-square) 
   
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <-- <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> -->
 </div>
 
 ## 🌍 Connect With Me
