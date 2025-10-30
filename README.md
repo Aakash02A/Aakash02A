@@ -94,11 +94,11 @@ _I’m a pre-final year B.Tech student specializing in Artificial Intelligence a
 
 
 <a href="https://www.linkedin.com/in/aakash02a/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username aakash" /></a> 
-<a href="https://dev.to/aakash02a"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username aakash" /></a>
-<a href="http://anmolbaranwal.com/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of anmol baranwal" /></a>
-<a href="https://medium.com/"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=0A0209" alt="medium profile of anmol baranwal" /></a>
+<a href="https://dev.to/aakash02a"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username aakash02a" /></a>
+<a href="http://aakash02a.com/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of anmol baranwal" /></a>
+<a href="https://medium.com/aakash02a"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=0A0209" alt="medium profile of aakash" /></a>
 <a href="mailto:aakashvkl4@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of aakash i.e.   aakashvkl4@gmail.com" /></a>
-<a href="https://twitter.com/aakash02a"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
+<a href="https://twitter.com/aakash02a"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username aakash02a" ></a>
 
 </div>
 
