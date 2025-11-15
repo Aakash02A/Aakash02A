@@ -58,10 +58,10 @@ _I’m a pre-final year B.Tech student specializing in Artificial Intelligence a
 
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Aakash02A/Network-Ping-Scanner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakash02a&repo=Network-Ping-Scanner&theme=radical" />
+      <a href="https://github.com/Aakash02A/Networking-Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakash02a&repo=Networking-Projects&theme=radical" />
       </a>
-      <p>🌐 <b>Network-Ping-Scanner</b><br></p>
+      <p>🌐 <b>Networking-Projects</b><br></p>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Aakash02A/ScienceLab-Inventory-Management-System">
