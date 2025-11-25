@@ -3,7 +3,6 @@
   <h1>Hi, I'm Aakash 👋</h1>
   <p><i>Cybersecurity (SOC) Learner | Python Automation | Applying ML to Security & Threat Detection</i></p>
 
-
  <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=600&color=23B36B&center=true&vCenter=true&width=435&lines=CONQUEROR;Think+wider.+Defend+beyond+code." alt="Typing SVG" /></a>
 </p>
@@ -13,7 +12,6 @@
 _I’m a B.Tech student specializing in AI & Data Science, focused on building a career in cybersecurity—especially SOC operations, threat detection, and Python-based automation. I actively build security tools, experiment with ML models for anomaly detection, and study log analysis, SIEM workflows, and web security._
 
 _Alongside cybersecurity, I work on full-stack development to stay industry-ready and deliver real, deployable projects. My goal is to combine security, automation, and machine learning to create efficient, scalable, and practical solutions for real-world environments._
-
 
 ---
 
@@ -42,17 +40,48 @@ _Alongside cybersecurity, I work on full-stack development to stay industry-read
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" title="vscode" width="40" />
 
 </p>
+</div>
+---
+
+## 🧰 Projects
+
+### 🛡️ SOC Automation Assistant (Automation + ML)
+
+An intelligent automation tool designed to assist SOC teams with faster alert handling.  
+Includes modules for **log parsing, IOC enrichment, case tagging, alert triage**, and planned ML-based anomaly scoring.
+
+**Tech:** Python, Pandas, Regex, REST APIs, Scikit-Learn  
+**Focus:** SOC workflow automation, alert reduction, ML-assisted triage
+
+---
+
+### 🕵️‍♂️ Phishing URL Detection (Machine Learning)
+
+A machine-learning model that analyzes URLs and predicts whether they are **legitimate or phishing** using feature extraction and classification algorithms.
+
+**Tech:** Python, Scikit-Learn, Pandas, Feature Engineering, Flask (optional API)  
+**Focus:** ML security application, threat detection, automation for Blue Team
+
+---
+
+### 🔐 Log Monitoring & Mini SIEM
+
+A lightweight log monitoring system that ingests and analyzes **system logs, auth logs, and network logs**, with alert rules and basic correlation engine.
+
+**Tech:** Python, Regex, JSON, Filebeat-style parser  
+**Focus:** Blue Team operations, log analysis, SIEM fundamentals
 
 ---
 
 ## 📊 GitHub Stats
 
+ <div align="center">
 
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakash02a&show_icons=true&theme=radical) 
+  <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakash02a&show_icons=true&theme=radical) 
   <br>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash02a&layout=compact&theme=radical)
-  <br>
-  <div>
+  <br> -->
+
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Aakash02A&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats"/> -->
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash02A&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/> -->
@@ -73,7 +102,6 @@ _Alongside cybersecurity, I work on full-stack development to stay industry-read
 <a href="https://twitter.com/aakash02a"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username aakash02a" ></a>
 
 </div>
-</div>
 
 ## 🎯 Current Focus
 
@@ -88,4 +116,3 @@ _Alongside cybersecurity, I work on full-stack development to stay industry-read
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   </div>
-</div>
