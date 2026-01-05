@@ -24,16 +24,16 @@
 ## 🚀 Tech Stack Experience
 
   <img src="icons/Linux-Dark.svg" alt="Linux" title="Linux" width="40" />
-   <img src="icons/kali-Dark.svg" width="40" title="Kali"/>
-  <img src="icons/python-Dark.svg"alt="Python" title="Python for Security" width="40" />
-  <img src="icons/bash-Dark.svg" width="40" alt="bash" title="bash" width="40"/>
+  <img src="icons/Kali-Dark.svg" width="40" title="Kali"/>
+  <img src="icons/Python-Dark.svg" alt="Python" title="Python for Security" width="40" />
+  <img src="icons/Bash-Dark.svg" width="40" alt="bash" title="bash" width="40"/>
   <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" title="elasticsearch" width="40" />
   <img src="icons/ScikitLearn-Dark.svg" width="40" title="Scikit-Learn" />
   <img src="icons/TensorFlow-Dark.svg" width="40" title="TensorFlow" />
   <img src="icons/Python-Dark.svg" width="40" title="PyTorch" />
 <br>
   <img src="icons/HTML.svg" alt="HTML" title="HTML" width="40"/>
-  <img src="icons/css.svg" alt="CSS" title="CSS" width="40" />
+  <img src="icons/CSS.svg" alt="CSS" title="CSS" width="40" />
   <img src="icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" />
   <img src="icons/MySQL-Dark.svg" alt="MySQL" title="MySQL" width="40" />
   <img src="icons/JavaScript.svg" alt="JavaScript" title="JavaScript" width="40" />
@@ -43,6 +43,36 @@
   <img src="icons/Github-Dark.svg" alt="GitHub" title="GitHub" width="40" />
   <img src="icons/VSCode-Dark.svg" alt="vscode" title="vscode" width="40" />
 
+</div>
+
+
+---
+
+<div>
+  
+## 🧰 Projects
+
+<h2><b>🧩 Hybrid Network Intrusion Detection System (NIDS)</b></h2>
+
+A hybrid NIDS using rule-based and machine learning detection to secure networks.
+
+**Features:** Live traffic & .pcap analysis, anomaly detection (Random Forest, XGBoost, Autoencoders), real-time alerts, and a visualization dashboard.
+
+**Tech:** Python, Scikit-learn, XGBoost, Pandas, NumPy, Streamlit, Scapy, Pyshark
+
+</div>
+
+---
+
+## 📊 Github Status
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakash02A&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash02A&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash02A&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  
 </div>
 
 ---
@@ -58,22 +88,6 @@
 </div>
 
 ---
-
-
-## 📊 Github Status
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakash02A&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash02A&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash02A&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-  
-</div>
-
----
-
 
 ## 🌍 Connect With Me
 
@@ -94,6 +108,8 @@
 
 </div>
 
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
