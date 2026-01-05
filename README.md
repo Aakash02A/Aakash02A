@@ -1,118 +1,100 @@
-<div align="center">
-  <img src="src/star.gif" width="1200" height="250" />
-  <h1>Hi, I'm Aakash 👋</h1>
-  <p><i>Cybersecurity (SOC) Learner | Python Automation | Applying ML to Security & Threat Detection</i></p>
+<img src="src/star.gif" width="1200" height="250" />
 
- <p>
+<h1 align="center">Hi, I'm Aakash 👋</h1>
+
+<p align="center"><i>Defensive Security | Linux, Log Analysis & SIEM Fundamentals | AI & DS Student</i></p>
+
+  <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=600&color=23B36B&center=true&vCenter=true&width=435&lines=CONQUEROR;Think+wider.+Defend+beyond+code." alt="Typing SVG" /></a>
-</p>
+  </p>
+
+<div align="center">
 
 ## 🧑‍💻 About Me
 
-_I’m a B.Tech student specializing in AI & Data Science, focused on building a career in cybersecurity—especially SOC operations, threat detection, and Python-based automation. I actively build security tools, experiment with ML models for anomaly detection, and study log analysis, SIEM workflows, and web security._
+*I’m a B.Tech student specializing in AI and Data Science, currently building a focused path into Defensive Security.*
 
-_Alongside cybersecurity, I work on full-stack development to stay industry-ready and deliver real, deployable projects. My goal is to combine security, automation, and machine learning to create efficient, scalable, and practical solutions for real-world environments._
+*My work centers on understanding system and application behavior through Linux usage, log analysis, and SOC fundamentals. I focus on hands-on labs, clear documentation, and practical investigation-style learning, with a long-term goal of moving into cloud security and security engineering.*
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 Tech Stack Experience
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="40" />
-   <img src="https://skillicons.dev/icons?i=kali" width="40" title="Kali"/>
-  <img src="https://skillicons.dev/icons?i=python"alt="Python" title="Python for Security" width="40" />
-  <img src="https://skillicons.dev/icons?i=bash" width="40" alt="bash" title="bash" width="40"/>
+  <img src="icons/Linux-Dark.svg" alt="Linux" title="Linux" width="40" />
+   <img src="icons/kali-Dark.svg" width="40" title="Kali"/>
+  <img src="icons/python-Dark.svg"alt="Python" title="Python for Security" width="40" />
+  <img src="icons/bash-Dark.svg" width="40" alt="bash" title="bash" width="40"/>
   <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" title="elasticsearch" width="40" />
-  <img src="https://skillicons.dev/icons?i=sklearn" width="40" title="Scikit-Learn" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" title="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" width="40" title="PyTorch" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="40" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="40" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="40" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="40" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="40" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" title="vscode" width="40" />
+  <img src="icons/ScikitLearn-Dark.svg" width="40" title="Scikit-Learn" />
+  <img src="icons/TensorFlow-Dark.svg" width="40" title="TensorFlow" />
+  <img src="icons/Python-Dark.svg" width="40" title="PyTorch" />
+<br>
+  <img src="icons/HTML.svg" alt="HTML" title="HTML" width="40"/>
+  <img src="icons/css.svg" alt="CSS" title="CSS" width="40" />
+  <img src="icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" />
+  <img src="icons/MySQL-Dark.svg" alt="MySQL" title="MySQL" width="40" />
+  <img src="icons/JavaScript.svg" alt="JavaScript" title="JavaScript" width="40" />
+  <img src="icons/PHP-Dark.svg" alt="PHP" title="PHP" width="40" />
+  <img src="icons/Java-Dark.svg" alt="Java" title="Java" width="40" />
+  <img src="icons/Git.svg" alt="Git" title="Git" width="40" />
+  <img src="icons/Github-Dark.svg" alt="GitHub" title="GitHub" width="40" />
+  <img src="icons/VSCode-Dark.svg" alt="vscode" title="vscode" width="40" />
 
-</p>
 </div>
----
-
-## 🧰 Projects
-
-### 🛡️ SOC Automation Assistant (Automation + ML)
-
-An intelligent automation tool designed to assist SOC teams with faster alert handling.  
-Includes modules for **log parsing, IOC enrichment, case tagging, alert triage**, and planned ML-based anomaly scoring.
-
-**Tech:** Python, Pandas, Regex, REST APIs, Scikit-Learn  
-**Focus:** SOC workflow automation, alert reduction, ML-assisted triage
 
 ---
 
-### 🕵️‍♂️ Phishing URL Detection (Machine Learning)
+<div>
 
-A machine-learning model that analyzes URLs and predicts whether they are **legitimate or phishing** using feature extraction and classification algorithms.
+## 🎯 Current Focus
 
-**Tech:** Python, Scikit-Learn, Pandas, Feature Engineering, Flask (optional API)  
-**Focus:** ML security application, threat detection, automation for Blue Team
-
----
-
-### 🔐 Log Monitoring & Mini SIEM
-
-A lightweight log monitoring system that ingests and analyzes **system logs, auth logs, and network logs**, with alert rules and basic correlation engine.
-
-**Tech:** Python, Regex, JSON, Filebeat-style parser  
-**Focus:** Blue Team operations, log analysis, SIEM fundamentals
+- Linux fundamentals for security operations
+- System and application log analysis
+- Understanding SOC workflows and alert triage
+- Building small, well-documented defensive labs
+</div>
 
 ---
 
-## 📊 GitHub Stats
 
- <div align="center">
+## 📊 Github Status
 
-  <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakash02a&show_icons=true&theme=radical) 
-  <br>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash02a&layout=compact&theme=radical)
-  <br> -->
+<div align="center">
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Aakash02A&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats"/> -->
-
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash02A&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakash02A&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash02A&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash02A&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
   
 </div>
 
+---
+
+
 ## 🌍 Connect With Me
 
-<div align="center">
+<div align=" center">
 
-<a href="https://www.linkedin.com/in/aakash02a/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username aakash" /></a>
-<a href="https://dev.to/aakash02a"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username aakash02a" /></a>
-<a href="http://aakash02a.com/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of anmol baranwal" /></a>
-<a href="https://medium.com/aakash02a"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=0A0209" alt="medium profile of aakash" /></a>
-<a href="mailto:aakashvkl4@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of aakash i.e.   aakashvkl4@gmail.com" /></a>
-<a href="https://twitter.com/aakash02a"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username aakash02a" ></a>
+<a href="https://www.linkedin.com/in/aakash02a/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" 
+       alt="LinkedIn profile of aakash02a" />
+</a>
+<a href="mailto:aakashvkl4@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black" 
+       alt="Email me at aakashvkl4@gmail.com" />
+</a>
+<a href="http://aakash02a.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=website&logoColor=black" 
+       alt="Portfolio of Aakash02A" />
+</a>
 
 </div>
 
-## 🎯 Current Focus
 
-- Strengthening SOC analysis skills and real-time security monitoring
-- Improving incident response methodology and threat investigation workflow
-- Building Python tools for security automation and log analysis
-- Enhancing skills in network security, vulnerability assessment, and hardening
-- Expanding knowledge in threat intelligence and adversary behavior patterns
-
-<br>
-
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
