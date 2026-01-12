@@ -101,7 +101,7 @@ A hybrid NIDS using rule-based and machine learning detection to secure networks
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black" 
        alt="Email me at aakashvkl4@gmail.com" />
 </a>
-<a href="http://aakash02a.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://aakash02a.github.io" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=website&logoColor=black" 
        alt="Portfolio of Aakash02A" />
 </a>
