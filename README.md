@@ -6,6 +6,7 @@
 
 ## 🛠 Tech Stack
 
+<p align="left">
   <img src="icons/Java-Dark.svg" alt="Java" height="45" title="Java"/>
   <img src="icons/Spring-Dark.svg" alt="Spring Boot" height="45" title="Spring Boot"/>
   <img src="icons/Python-Dark.svg" alt="Python" height="45" title="Python"/>
@@ -20,7 +21,7 @@
   <img src="icons/MySQL-Dark.svg" alt="MySQL" height="45" title="MySQL"/>
   <img src="icons/Linux-Dark.svg" alt="Linux" height="45" title="Linux"/> 
   <img src="icons/Nginx.svg" alt="Nginx" height="45" title="Nginx"/>
-
+</p>
 <!-- Github Statistics -->
 
 <details>
