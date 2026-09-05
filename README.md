@@ -1,97 +1,54 @@
-<img src="src/star.gif" width="1200" height="250" />
+# Hey There! 👋
 
-<h1 align="center">Hi, I'm Aakash 👋</h1>
+### *Backend Engineer | Secure API Development | Exploring Autonomous AI*
 
-<p align="center"><i>Defensive Security | Linux, Log Analysis & SIEM Fundamentals | AI & DS Student</i></p>
+**I'm Aakash**, a Backend Developer focused on building applications with Java, Spring Boot, SQL, and REST APIs. I build secure, scalable backend APIs while exploring the intersection of defensive software development and autonomous Agentic AI.
 
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=600&color=23B36B&center=true&vCenter=true&width=435&lines=CONQUEROR;Think+wider.+Defend+beyond+code." alt="Typing SVG" /></a>
-  </p>
+## 🛠 Tech Stack
 
-<div align="center">
+  <img src="icons/Java-Dark.svg" alt="Java" height="45" title="Java"/>
+  <img src="icons/Spring-Dark.svg" alt="Spring Boot" height="45" title="Spring Boot"/>
+  <img src="icons/Python-Dark.svg" alt="Python" height="45" title="Python"/>
+  <img src="icons/PHP-Dark.svg" alt="PHP" height="45" title="PHP"/>
+  <img src="icons/HTML.svg" alt="HTML" height="45" title="HTML" />
+  <img src="icons/CSS.svg" alt="CSS" height="45" title="CSS"/>
+  <img src="icons/JavaScript.svg" alt="JavaScript" height="45" title="JavaScript"/>
+  <img src="icons/Bootstrap.svg" alt="Bootstrap" height="45" title="Bootstrap"/>
+  <img src="icons/Git.svg" alt="Git" height="45" title="Git"/>
+  <img src="icons/Github-Dark.svg" alt="GitHub" height="45" title="Github"/>
+  <img src="icons/Docker.svg" alt="Docker" height="45" title="Docker"/>
+  <img src="icons/MySQL-Dark.svg" alt="MySQL" height="45" title="MySQL"/>
+  <img src="icons/Linux-Dark.svg" alt="Linux" height="45" title="Linux"/> 
+  <img src="icons/Nginx.svg" alt="Nginx" height="45" title="Nginx"/>
 
-## 🧑‍💻 About Me
+<!-- Github Statistics -->
 
-*I’m a B.Tech student specializing in AI and Data Science, currently building a focused path into Defensive Security.*
-
-*My work centers on understanding system and application behavior through Linux usage, log analysis, and SOC fundamentals. I focus on hands-on labs, clear documentation, and practical investigation-style learning, with a long-term goal of moving into cloud security and security engineering.*
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Tech Stack Experience
-
-  <img src="icons/Linux-Dark.svg" alt="Linux" title="Linux" width="40" />
-  <img src="icons/Kali-Dark.svg" width="40" title="Kali"/>
-  <img src="icons/Python-Dark.svg" alt="Python" title="Python for Security" width="40" />
-  <img src="icons/Bash-Dark.svg" width="40" alt="bash" title="bash" width="40"/>
-  <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" title="elasticsearch" width="40" />
-  <img src="icons/ScikitLearn-Dark.svg" width="40" title="Scikit-Learn" />
-  <img src="icons/TensorFlow-Dark.svg" width="40" title="TensorFlow" />
-  <img src="icons/Python-Dark.svg" width="40" title="PyTorch" />
-<br>
-  <img src="icons/HTML.svg" alt="HTML" title="HTML" width="40"/>
-  <img src="icons/CSS.svg" alt="CSS" title="CSS" width="40" />
-  <img src="icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" />
-  <img src="icons/MySQL-Dark.svg" alt="MySQL" title="MySQL" width="40" />
-  <img src="icons/JavaScript.svg" alt="JavaScript" title="JavaScript" width="40" />
-  <img src="icons/PHP-Dark.svg" alt="PHP" title="PHP" width="40" />
-  <img src="icons/Java-Dark.svg" alt="Java" title="Java" width="40" />
-  <img src="icons/Git.svg" alt="Git" title="Git" width="40" />
-  <img src="icons/Github-Dark.svg" alt="GitHub" title="GitHub" width="40" />
-  <img src="icons/VSCode-Dark.svg" alt="vscode" title="vscode" width="40" />
-
-</div>
-
-
----
-
-<div>
+<details>
+    <summary> Github Stats ⚡</summary>
   
-## 🧰 Projects
-
-<h2><b>🧩 Hybrid Network Intrusion Detection System (NIDS)</b></h2>
-
-A hybrid NIDS using rule-based and machine learning detection to secure networks.
-
-**Features:** Live traffic & .pcap analysis, anomaly detection (Random Forest, XGBoost, Autoencoders), real-time alerts, and a visualization dashboard.
-
-**Tech:** Python, Scikit-learn, XGBoost, Pandas, NumPy, Streamlit, Scapy, Pyshark
-
-</div>
-
----
-
-## 📊 Github Status
+# <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakash02A&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash02A&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-<br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash02A&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-  
+<!-- Row 1 -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aakash02A&theme=dark&cache_seconds=60" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aakash02A&theme=dark&cache_seconds=60" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aakash02A&theme=dark&cache_seconds=60" />
+
+<!-- Row 2 -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Aakash02A&theme=dark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&cache_seconds=60&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakash02A&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark&hide_border=true"/>
+
+<!-- Row 3 -->
+<img width="49%" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aakash02A&theme=github_dark" alt="Profile Details"/>
+<!-- <img width="49%" height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash02A&theme=github-dark" alt="Aakash02A's GitHub Activity Graph"/> -->
+
 </div>
+</details>
 
----
+<!-- Connections -->
 
-<div>
-
-## 🎯 Current Focus
-
-- Linux fundamentals for security operations
-- System and application log analysis
-- Understanding SOC workflows and alert triage
-- Building small, well-documented defensive labs
-</div>
-
----
-
-## 🌍 Connect With Me
-
-<div align=" center">
+## 🌍 Connect with me
 
 <a href="https://www.linkedin.com/in/aakash02a/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" 
@@ -105,12 +62,3 @@ A hybrid NIDS using rule-based and machine learning detection to secure networks
   <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=website&logoColor=black" 
        alt="Portfolio of Aakash02A" />
 </a>
-
-</div>
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
